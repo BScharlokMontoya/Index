@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #cf7272;
+    color: #333;
+    margin: 20px;
+  }
+
+  .fondo{
+    background-color: rgb(0, 162, 255);
+}
+.miTexto{
+    font-size: 80px;
+    color: rgb(145, 5, 5);
+}
